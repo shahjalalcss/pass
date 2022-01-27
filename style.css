@@ -1,0 +1,110 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+.top-section{
+    background-image: url("images/header-bg.png");
+    height: 1073px;
+    background-repeat: no-repeat;
+    padding-left: 6%;
+    padding-right: 4%;
+    font-size: 25px;
+}
+.highlight{
+    color: orange;
+}
+
+.one{
+    width: 40%;
+    float: left;
+}
+.one .highlight{
+    font-weight: 700;
+}
+.first{
+    padding-top: 223px;
+}
+.second{
+    padding-top: 62px;
+    ;
+}
+.button1{
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(45deg , lightsalmon, tomato);
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.bio{
+    height: 875px;
+    background-image: url("images/biography-bg.png");
+    padding-left: 6%;
+    padding-right: 4%;
+    font-size: 25px;
+}
+.two{
+    width: 40%;
+    float: left;
+}
+.prothom{
+    padding-top: 97px;
+}
+.ses{
+    padding-top: 218px;
+
+}
+.button2{
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(45deg , lightsalmon, tomato);
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.work{
+    background-image: url("images/latest-work-bg.png");
+    height: 1162px;
+    background-repeat: no-repeat;
+    padding-left: 5%;
+    padding-right: 4%;
+    padding-top: 326px;
+}
+.work1{
+    width: 20%;
+    float: left;
+    margin: 90px;
+}
+.work2{
+    text-align: center;
+}
+
+.last{
+    background-image: url("images/footer-bg.png");
+    height: 1197px;
+    background-repeat: no-repeat;
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-top: 200px;
+}
+.last1{
+    text-align: center;
+    padding-bottom: 45px;
+}
+.last2{
+    text-align: center;
+}
+.last3{
+    text-align: center;
+}
+.last4{
+    text-align: center;
+    background-color: wheat;
+    color: black;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+#happy{
+    padding-top: 500px;
+}
